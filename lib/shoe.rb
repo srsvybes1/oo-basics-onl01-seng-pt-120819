@@ -5,10 +5,7 @@ attr_reader :brand
 def initialize(brand)
   @brand=brand
 end
-def condition (condition = new)
-  @condition=condition
-end
-def cobble 
+ def cobble 
     puts "Your shoe is as good as new!"
 end
 end
