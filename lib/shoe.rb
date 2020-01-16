@@ -10,4 +10,3 @@ def initialize(brand)
       
     end
        end
-  Shoe.condition = new
